@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dev/hyatt/static/css/main.e6c13ad2.css",
+    "main.js": "/dev/hyatt/static/js/main.05067084.js",
+    "static/js/243.e2339d3b.chunk.js": "/dev/hyatt/static/js/243.e2339d3b.chunk.js",
+    "static/js/453.5fbbc2e9.chunk.js": "/dev/hyatt/static/js/453.5fbbc2e9.chunk.js",
+    "index.html": "/dev/hyatt/index.html",
+    "main.e6c13ad2.css.map": "/dev/hyatt/static/css/main.e6c13ad2.css.map",
+    "main.05067084.js.map": "/dev/hyatt/static/js/main.05067084.js.map",
+    "243.e2339d3b.chunk.js.map": "/dev/hyatt/static/js/243.e2339d3b.chunk.js.map",
+    "453.5fbbc2e9.chunk.js.map": "/dev/hyatt/static/js/453.5fbbc2e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.05067084.js"
+  ]
+}
